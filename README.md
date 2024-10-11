@@ -9,5 +9,4 @@ My life;
 
 My work;
 
-💼 I work for @GILCodesEU, the company behind the Minecraft Server GILCraft.de, as the Leading Developer.
-
+💼 I am Co-Founder of TransientCodes, I lead the Development there.
