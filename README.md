@@ -1,12 +1,12 @@
 Myself;
 
-👋 Hey! I'm Kolja, a German Fullstack Developer!
+👋 Hey! I'm Kolja, a Student German Fullstack Developer!
     i like Döner and yeah. 
 
 My life;
 
-🏘️ I live and work in Germany.
+🏘️ I live and study in Germany.
 
-My work;
+My sidehustles;
 
 💼 I am Co-Founder of TransientCodes, I lead the Development there.
