@@ -1,6 +1,6 @@
 Myself;
 
-👋 Hey! I'm Kolja, a Student German Fullstack Developer!
+👋 Hey! I'm Kolja, a Student German Backend Developer!
     i like Döner and yeah. 
 
 My life;
