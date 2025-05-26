@@ -1,12 +1,6 @@
-Myself;
+About me;
 
-👋 Hey! I'm Kolja, a Student German Backend Developer!
-    i like Döner and yeah. 
+👋🏻 I am Kolja, an student from Germany (yes the germany with the Bier and stuff). I mostly develop Minecraft Plugins for TransientRealm.de, if i'm not doing that, i'm probably learning for exams or composing Music,
+yes, another one like that lol.
 
-My life;
-
-🏘️ I live and study in Germany.
-
-My sidehustles;
-
-💼 I am Co-Founder of TransientCodes, I lead the Development there.
+🗿 <- thats my favorite emoji (weird ass shit i know)
